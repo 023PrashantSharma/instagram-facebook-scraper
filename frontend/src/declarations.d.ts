@@ -1,0 +1,7 @@
+declare module '*.jpg'
+declare module '*.svg'
+declare module '*.png'
+declare module '*.js'
+declare module '*.ts'
+declare module '*.css'
+declare module '*.sass'
